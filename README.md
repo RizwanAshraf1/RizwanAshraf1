@@ -8,7 +8,7 @@
             </svg></a>👨 Introduction:</h2>
     <p>Hi reader <g-emoji class="g-emoji" alias="wave"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I am
-        <strong>Rizwan Ashraf </strong>, a <strong>Computer Engineer</strong>, a <strong>Software Developer</strong> for
+        <strong>Rizwan Ashraf </strong>, a <strong>Computer Engineer by education</strong>, a <strong>Software Developer by profession</strong> for
         more
         than <strong>5 years</strong>, a <strong> avid reader </strong> and a <strong>learner</strong> for as long as I
         can remember.</strong></p>
