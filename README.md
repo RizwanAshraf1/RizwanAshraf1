@@ -55,7 +55,7 @@
             <g-emoji class="g-emoji" alias="bird"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji>
             Twitter:
-            <a href="https://twitter.com/manbirmarwah" rel="nofollow">@RizwanAshraf7</a>
+            <a href="https://twitter.com/RizwanAshraf7" rel="nofollow">@RizwanAshraf7</a>
         </li>
         <li>
             <g-emoji class="g-emoji" alias="busts_in_silhouette"
