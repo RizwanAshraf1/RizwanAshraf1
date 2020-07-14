@@ -60,7 +60,7 @@
         <li>
             <g-emoji class="g-emoji" alias="busts_in_silhouette"
                 fallback-src="https://www.linkedin.com/in/rizwan-ashraf-03041a68">👥</g-emoji> LinkedIn <a
-                href="https://linkedin.com/in/manbirmarwah" rel="nofollow">/rizwan-ashraf-03041a68</a>
+                href="https://linkedin.com/in/rizwan-ashraf-03041a68" rel="nofollow">/rizwan-ashraf-03041a68</a>
         </li>
         </li>
     </ul>
