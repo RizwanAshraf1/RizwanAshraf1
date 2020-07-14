@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <h2><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction">
+    <h2><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                 aria-hidden="true">
             </svg></a>👨 Introduction:</h2>
@@ -9,7 +9,7 @@
         more
         than <strong>5 years</strong>, a <strong> avid reader </strong> and a <strong>learner</strong> for as long as I
         can remember.</strong></p>
-    <h2><a id="user-content-programming-languages" class="anchor" aria-hidden="true" href="#programming-languages"><svg
+    <h2><a id="user-content-programming-languages" class="anchor" aria-hidden="true" href="#"><svg
                 class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                 aria-hidden="true">
                 <path fill-rule="evenodd"
