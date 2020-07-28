@@ -64,7 +64,9 @@
         </li>
         </li>
     </ul>
-</article>
-   <img src="https://github-readme-stats.vercel.app/api?username=RizwanAshraf1&show_icons=true&include_all_commits=true&theme=radical" />
+     <img src="https://github-readme-stats.vercel.app/api?username=RizwanAshraf1&show_icons=true&include_all_commits=true&theme=radical" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RizwanAshraf1&layout=compact&theme=radical" />
 </div>
+</article>
+  
 </div>
