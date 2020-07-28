@@ -65,6 +65,6 @@
         </li>
     </ul>
 </article>
-    https://github-readme-stats.vercel.app/api?username=RizwanAshraf1&show_icons=true
+    https://github-readme-stats.vercel.app/api?username=RizwanAshraf1&show_icons=true&include_all_commits=true&theme=radical"
 </div>
 </div>
