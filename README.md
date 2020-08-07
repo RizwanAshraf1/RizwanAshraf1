@@ -7,7 +7,7 @@
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I am
         <strong>Rizwan Ashraf </strong>, a <strong>Computer Engineer by education</strong>, a <strong>Software Developer by profession</strong> for
         more
-        than <strong>5 years</strong>, a <strong> avid reader </strong> and a <strong>learner</strong>since forever for what I know.</strong></p>
+        than <strong>5 years</strong>, a <strong> avid reader </strong> and a <strong>learner</strong> since forever for what I know.</strong></p>
     <h2><a id="user-content-programming-languages" class="anchor" aria-hidden="true" href="#"><svg
                 class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                 aria-hidden="true">
